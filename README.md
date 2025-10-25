@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Tomás E. Rapaccioni Mancini
 
-## 🎯 Desarrollador Full Stack | Estudiante Avanzado en Programación
+## 🎯 Desarrollador Full Stack | Tecnico en Programación
 
 Soy un desarrollador full stack apasionado por la tecnología, actualmente en la etapa final de la **Tecnicatura en Programación** en la Universidad Tecnológica Nacional. Me considero una persona proactiva y responsable, con sólidas habilidades en computación y experiencia trabajando con metodologías ágiles.
 
