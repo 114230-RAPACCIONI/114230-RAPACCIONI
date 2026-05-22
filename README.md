@@ -18,15 +18,36 @@
 
 ```java
 public class TomasRapaccioni {
-    private String nombre = "Tomás E. Rapaccioni Mancini";
-    private String ubicacion = "Córdoba, Argentina";
-    private String[] estudios = {"Tecnicatura en Programación (Finalizando)", "Bachiller en Economía"};
-    private String[] idiomas = {"Español (Nativo)", "Inglés (Intermedio)"};
-    
-    public String[] getHabilidades() {
-        return new String[]{
-            "Desarrollo Full Stack", "APIs REST", "Bases de Datos",
-            "Metodologías Ágiles", "Trabajo en Equipo", "Aprendizaje Continuo"
+
+    private final String fullName = "Tomás E. Rapaccioni Mancini";
+    private final String role = "Full Stack Developer";
+    private final String location = "Córdoba, Argentina";
+
+    private final String[] education = {
+        "Programming Technician Degree",
+        "Economics High School Diploma"
+    };
+
+    public String[] technicalSkills() {
+        return new String[] {
+            "Java & Spring Boot",
+            "Angular",
+            "REST APIs",
+            "SQL & NoSQL Databases",
+            "Docker",
+            "Git & GitHub",
+            "Testing",
+            "Microservices Architecture"
+        };
+    }
+
+    public String[] softSkills() {
+        return new String[] {
+            "Problem Solving",
+            "Teamwork",
+            "Adaptability",
+            "Continuous Learning",
+            "Agile Methodologies"
         };
     }
 }
