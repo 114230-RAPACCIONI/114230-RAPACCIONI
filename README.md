@@ -179,9 +179,11 @@ Backend application for team standings, scoring and tournament analytics.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=114230-RAPACCIONI&show_icons=true&hide_border=true&bg_color=00000000&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" height="170"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=114230-RAPACCIONI&theme=github_dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=114230-RAPACCIONI&layout=compact&hide_border=true&bg_color=00000000&title_color=00D4FF&text_color=FFFFFF" height="170"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=114230-RAPACCIONI&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=114230-RAPACCIONI&theme=github_dark)
 
 </div>
 
